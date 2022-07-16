@@ -12,6 +12,14 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahnho)](https://github.com/anuraghazra/github-readme-stats)
 
+## 💻 Programming Skills
+
+* Main Languague : python
+* Sub Languages : C++, Nim
+* Frameworks
+   * Deep Learning: PyTorch, TensorFlow
+
+
 <!--
 **Ahnho/Ahnho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
