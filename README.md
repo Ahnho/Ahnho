@@ -2,11 +2,7 @@
 
 ---
 
-<div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhnho&count_bg=%233D5BC8&title_bg=%2344AA47&icon=github.svg&icon_color=%238038C0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 
 ## 🌟Status
 
